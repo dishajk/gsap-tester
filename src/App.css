@@ -31,3 +31,28 @@
   margin-bottom: 10vh;
   padding: 20px;
 }
+.box {
+	width: 100px;
+	height: 100px;
+  border-radius: 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	background-color: green;
+	font-weight: 600;
+	color: white;
+}
+
+.circle {
+	width: 100px;
+	height: 100px;
+  border-radius: 99%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	background-color: purple;
+	font-weight: 600;
+	color: white;
+}
